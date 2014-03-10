@@ -4,3 +4,8 @@ html {
 
 	font: normal 100%/1.4 Georgia;
 }
+
+.current {
+	background-color: #ccc;
+	color: #fff;
+}
