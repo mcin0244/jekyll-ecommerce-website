@@ -2,6 +2,9 @@
 /* CSS Document */
 
 /* Navigation Styles */
+.current{
+	color: #999;
+}
 
 .nav-btn,
 .nav-btn:link,
