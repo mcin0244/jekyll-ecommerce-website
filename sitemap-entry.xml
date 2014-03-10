@@ -1,7 +1,0 @@
-<url>
-	<loc>http://mcin0244.github.io{{site.baseurl}}{{include.entry.url}}</loc>
-	{% if include.entry.changefreq %}
-	<changefreq>{{include.entry.changefreq}}</changefreq>
-	{% endif %}
-	<priority>{{include.entry.changefreq}}</priority>
-</url>
