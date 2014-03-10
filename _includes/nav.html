@@ -1,5 +1,5 @@
 	<a href="#nav" class="nav-btn hide-text"></a>
-			<nav class="nav nav-top" data-state="collapsed">
+			<nav class="nav {{include.navclass}}" data-state="collapsed">
 				<ul>
 					<li><a href="{{site.baseurl}}/" class="{% if page.url == '/index.html' %}current{% endif %}">HOME</a></li>
 					<li><a href="{{site.baseurl}}/about.html" class="{% if page.url == '/about.html' %}current{% endif %}">ABOUT</a></li>
