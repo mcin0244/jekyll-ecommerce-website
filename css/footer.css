@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* FOOTER */
+
+ footer{ 
+	margin: 0 auto;
+	text-align: center;
+ }
+ 
+ footer p{
+	font-size:10px;
+	font-color:#ccc;
+	padding-top: 2rem;
+	text-align:center;
+
+}
