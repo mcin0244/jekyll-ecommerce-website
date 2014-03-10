@@ -5,11 +5,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas.sitemap/0.9">
 
 {% for post in site.posts %}
-	{% include sitemap-entry.xml entry=posts %}
+	{% if page.layout %}
+		{% include sitemap-entry.xml entry=posts %}
+	{% end.if %}
 {% endfor %}
 
 {% for post in site.pages %}
-	{% include sitemap-entry.xml entry=posts %}
+	{% if page.layout %}
+		{% include sitemap-entry.xml entry=posts %}
+	{% end.if %}
 {% endfor %}
 
 
