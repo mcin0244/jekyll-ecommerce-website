@@ -17,8 +17,8 @@ header {
 
 /*  NAV  */
 .current {
-	background-color: #ccc;
-	color: #fff;
+	background-color: #fff;
+	color: #999;
 }
 
 .nav-btn,
