@@ -3,8 +3,7 @@
 }
 
 .unit {
-	float: left;
-	background-color: #fff
+	background-color: #ccc
 }
 
 /*
@@ -17,7 +16,7 @@
 }
 
 .unit-s-1 {
-	width: 100%;
+	width: 50%;
 }
 
 @media only screen and (min-width: 30em) {
