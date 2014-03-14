@@ -2,7 +2,9 @@
 	{% for categories in site.pages %}
 		{% if categories.type == include.type %}
 	<li>
+		<img src="" alt="">
 		{{categories.title}}
+		<p>{{categories.meta}}</p>
 	</li>
 	{% endif %}
 	{% endfor %}
