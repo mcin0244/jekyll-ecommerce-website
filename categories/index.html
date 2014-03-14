@@ -5,13 +5,10 @@ layout: default
 <h1>Categories</h1>
 
 <h2>Product 1</h2>
+{% include categories-list.html type='one' %}
 
-<ul>
-	{% for categories in site.pages %}
-		{% if categories.type == 'one' %}
-	<li>
-		{{categories.title}}
-	</li>
-	{% endif %}
-	{% endfor %}
-</ul>
+<h2>Product 2</h2>
+{% include categories-list.html type='two' %}
+
+<h2>Product 3</h2>
+{% include categories-list.html type='three'%}
