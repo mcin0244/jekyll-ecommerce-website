@@ -2,7 +2,7 @@
 layout: default
 title: Product-2-a
 meta: Product-2-a is one of our best selling products.
-type: 2-a
+type: two
 made in: Canada
 price: $9.99
 materials: 100% cotton

@@ -8,8 +8,10 @@ layout: default
 
 <ul>
 	{% for categories in site.pages %}
+		{% if categories.type == 'one' %}
 	<li>
 		{{categories.title}}
 	</li>
+	{% endif %}
 	{% endfor %}
 </ul>
