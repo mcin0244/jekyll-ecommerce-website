@@ -1,0 +1,12 @@
+---
+layout: default
+title: Product-1-c
+meta: Product-1-b is one of our best selling products.
+type: 1-c
+made in: Canada
+price: $9.99
+materials: 100% cotton
+image: product-1-c.jpg
+---
+
+*Product-1-c* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
