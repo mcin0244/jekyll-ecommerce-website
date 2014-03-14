@@ -2,7 +2,7 @@
 	{% for categories in site.pages %}
 		{% if categories.type == include.type %}
 	<li>
-		<img src="{{site.baseurl}}/images/{{product-image-placeholder.image}}" alt="product image placeholder">
+		<img src="{{site.baseurl}}/images/{{product.image}}" alt="product image placeholder">
 		{{categories.title}}
 		<p>{{categories.meta}}</p>
 	</li>
