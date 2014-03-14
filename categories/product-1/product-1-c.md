@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Product-1-c
-meta: Product-1-b is one of our best selling products.
+meta: Product-1-c is one of our best selling products.
 type: one
 made in: Canada
 price: $9.99
