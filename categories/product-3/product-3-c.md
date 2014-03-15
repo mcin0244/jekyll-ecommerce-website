@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: product
 title: Product-3-c
 meta: Product-3-c is one of our best selling products.
 type: three
