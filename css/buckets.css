@@ -5,6 +5,8 @@
 	border: 1px solid rgb(49, 53, 61);
 	overflow: hidden;
 	float: center;
+	margin-top: 10px;
+	margin-left: 10px;
 }
 
 .media img{
