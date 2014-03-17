@@ -1,13 +1,13 @@
 <ul>
 	{% for categories in site.pages %}
 		{% if categories.type == include.type %}
-	<li>
-		<a href="{{site.baseurl}}{{categories.url}}">
-		<img src="{{site.baseurl}}/images/{{product-1.image}}" alt="product image placeholder">
-		<h3>{{categories.title}}</h3>
-		<p>{{categories.meta}}</p>
-	</a>
-	</li>
-	{% endif %}
+		<li>
+			<a href="{{site.baseurl}}{{categories.url}}">
+				<img src="{{site.baseurl}}/images/{{product.image}}" alt="product image placeholder">
+				<h3>{{categories.title}}</h3>
+				<p>{{categories.meta}}</p>
+			</a>
+		</li>
+		{% endif %}
 	{% endfor %}
 </ul>
