@@ -2,17 +2,16 @@
 layout: default
 ---
 
-<h1> Categories</h1>
+<strong>Products</strong>
 
 <nav>
 	<ul>
 		{% for product in site.categories.categories-type %}
-		<li>
-			<a href="{{site.baseurl}}/categories/{{categories.folder}}/">{{categories.title}}
-		</li>
+			<li>
+				<a href="{{site.baseurl}}/categories/{{categories.folder}}/" class="{% if page.url contains categories.folder %}current{% endif %}">{{product.title}}</a>
+			</li>
 		{% endfor %}
 	</ul>
 </nav>
 
 {{content}}
-
