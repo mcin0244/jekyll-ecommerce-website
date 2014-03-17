@@ -19,24 +19,7 @@
 	{% include nav.html navclass='nav-top' %}
 </header>
 
-
-<strong>Products</strong>
-
-<nav>
-	<ul>
-		<li>
-			<a href="{{site.baseurl}}/categories/{{categories.folder}}/" class="{% if page.url contains categories.folder %}current{% endif %}">Product 1</a>
-		</li>
-
-		<li>
-			<a href="{{site.baseurl}}/categories/{{categories.folder}}/" class="{% if page.url contains categories.folder %}current{% endif %}">Product 2</a>
-		</li>
-
-		<li>
-			<a href="{{site.baseurl}}/categories/{{categories.folder}}/" class="{% if page.url contains categories.folder %}current{% endif %}">Product 3</a>
-		</li>
-	</ul>
-</nav>
+	{% include sub-nav.html navclass='nav-top' %}
 
 {{content}}
 
