@@ -1,5 +1,5 @@
 ---
-layout: product
+layout: products
 title: Product-2-c
 meta: Product-2-c is one of our best selling products.
 type: two

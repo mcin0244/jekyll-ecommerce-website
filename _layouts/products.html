@@ -6,11 +6,17 @@ layout: default
 
 <nav>
 	<ul>
-		{% for product in site.categories.categories-type %}
-			<li>
-				<a href="{{site.baseurl}}/categories/{{categories.folder}}/" class="{% if page.url contains categories.folder %}current{% endif %}">{{categories.title}}</a>
-			</li>
-		{% endfor %}
+		<li>
+			<a href="{{site.baseurl}}/categories/{{categories.folder}}/" class="{% if page.url contains categories.folder %}current{% endif %}">Product 1</a>
+		</li>
+
+		<li>
+			<a href="{{site.baseurl}}/categories/{{categories.folder}}/" class="{% if page.url contains categories.folder %}current{% endif %}">Product 2</a>
+		</li>
+
+		<li>
+			<a href="{{site.baseurl}}/categories/{{categories.folder}}/" class="{% if page.url contains categories.folder %}current{% endif %}">Product 3</a>
+		</li>
 	</ul>
 </nav>
 
