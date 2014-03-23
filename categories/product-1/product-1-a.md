@@ -10,3 +10,4 @@ image: product-image-placeholder.svg
 ---
 
 *Product-1-a* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
+
