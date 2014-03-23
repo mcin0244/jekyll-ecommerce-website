@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: product-page
 title: Product-1-d
 meta: Product-1-d is one of our best selling products.
 type: one

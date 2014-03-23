@@ -1,5 +1,5 @@
 ---
-layout: products
+layout: product-page
 title: Product-3-a
 meta: Product-3-a is one of our best selling products.
 type: three
