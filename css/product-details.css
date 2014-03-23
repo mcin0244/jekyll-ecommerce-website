@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+main {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.media{
+	border: 1px solid rgb(238, 239, 247);
+	overflow: hidden;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.media img{
+	float: left;
+	margin: 10px 10px 10px 10px;
+}
+
+.media-img-stacked {
+	float: none;
+	margin: 0;
+}
+
+.media-body{
+	overflow: hidden;
+}
+
+.media p{
+	margin: 10px 10px 10px 10px;
+}
+
+.media h2{
+	margin: 10px 10px 10px 10px;
+	float: center;
+}
+
+.media h5{
+	margin: 10px 10px 10px 10px;
+	float: center;
+}
+
+/* Rating */
+
+.rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  text-align: center;
+}
+
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+}
+
+.rating > span:hover,
+.rating > span:hover ~ span {
+  color: transparent;
+}
+
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+   left: 0; 
+   color: #92CDCF;
+}
