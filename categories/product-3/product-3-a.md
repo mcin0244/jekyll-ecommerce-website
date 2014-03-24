@@ -3,7 +3,7 @@ layout: product-page
 title: Product-3-a
 meta: Product-3-a is one of our best selling products.
 type: three
-made in: Canada
+made-in: Canada
 price: $9.99
 materials: 100% cotton
 image: product-image-placeholder.svg

@@ -22,13 +22,36 @@
 	<img src="/images/logo-placeholder.svg" alt="logo placeholder">
 	{% include nav.html navclass='nav-top' %}
 </header>
+	
+	{% include search-field.html %}
 
 	{% include sub-nav.html navclass='nav-top' %}
 
-	{% include search-field.html %}
 
 
-{% include product-details.html %}
+	<div class="product-detail">
+	<div class="product-img">
+		<img src="http://placehold.it/200x370" alt="">
+	</div>
+	<div class="product-body">
+		<h2>{{page.title}}</h2>
+		
+		<h5> {{page.price}} </h5> <div class="rating">
+<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+			</div>
+		
+		<p>{{page.meta}}</p>
+		
+		<ul>
+			<li>{{page.materials}}</li>
+			<li>{{page.made-in}}</li>
+			<li>{{page.type}}</li>
+		</ul>
+		
+		<a class="btn2 yotta" href="{{site.baseurl}}/cart.html">buy now</a>
+	</div>
+</div>
+
 
 <footer>
 	{% include nav.html navclass='nav-bottom' %}

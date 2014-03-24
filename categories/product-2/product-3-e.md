@@ -3,7 +3,7 @@ layout: product-page
 title: Product-2-e
 meta: Product-2-e is one of our best selling products.
 type: two
-made in: Canada
+made-in: Canada
 price: $9.99
 materials: 100% cotton
 image: product-image-placeholder.svg
