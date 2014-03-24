@@ -18,27 +18,24 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### {Grant Jeffery}
 
-- {She clicked on the link as expected…}
-- {She had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {Navigated webpage with no issues}
+- {Was able to complete all tasks without question}
+- {Just needs streamling}
+
 
 ### {Sasha Chama}
 
-- {He clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {He asked these questions…}
+- {Slight confusion of categories list, might help to add a detailed sub-nav}
+- {Completed tasks with little to no confusion}
+- {Used search bar well}
 - {Fill in any observations that were important/relevant…}
-- etc.
 
 ### {Kayla Araujo}
 
-- {She clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {Completed all tasks with no questions}
+- {Intuitivly used nav}
+- {Able to locate products with ease.}
+- {May be beneficial to add a more detailed subnav}
 
 ---
 
@@ -46,15 +43,12 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- {Categories list is long, may need more specific sub nav}
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- {Nav could use more detail}
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- {Some small html bugs}
