@@ -2,51 +2,50 @@
 /* CSS Document */
 
 .promo-1{
-	border: 1px solid rgb(49, 53, 61);
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
-	background: url("/images/promo-1.svg");
+	background-image: url(.../images/promo-1.svg);
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .promo-2{
-	border: 1px solid rgb(49, 53, 61);
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
-	background: url("/images/promo-2.svg");
+	background-image: url(.../images/promo-2.svg);
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .promo-3{
-	border: 1px solid rgb(49, 53, 61);
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
-	background: url("/images/promo-3.svg");
+	background-image: url(.../images/promo-3.svg);
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .promo-large{
-	border: 1px solid rgb(49, 53, 61);
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
-	background: url("/images/large-promo.svg");
+	background: #fff;
+	background-image: url(.../images/large-promo.svg);
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
-.promo img{
-}
-
-
-.promo-img-stacked {
-	margin: 0;
-}
 
 .promo-body{
-
+	margin: 10px 10px 10px 10px;
+	float: right;
 }
 
 .promo p{
