@@ -37,6 +37,17 @@ a:active {
 	border-bottom: #92CDCF;
 }
 
+a:hover;
+a: active {
+	/* We can remove the outline from mouse-based actions only */
+	outline: none;
+}
+
+a:focus {
+	/* The outline must be on the focus state for keyboard access */
+	outline: 2px solid #000;
+}
+
 .yotta {
 	font-size: 0.889rem;
 	line-height: 1.315;	

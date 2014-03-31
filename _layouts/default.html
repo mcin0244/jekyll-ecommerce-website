@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-ca">
 <head>
-	<meta charset="utf-8"
+	<meta charset="utf-8">
 	<title>{% if page.title %}{{page.title}} · {% endif %}Jekyll Ecommerce Website{% if page.titleAfter %} · {{page.titleAfter}}{% endif %}</title>
 	<link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/typography.css" rel="stylesheet">
@@ -18,7 +18,7 @@
 </head>
 <body>
 
-<header>
+<header role="banner">
 	<img src="images/logo-placeholder.svg" alt="logo placeholder">
 	{% include nav.html navclass='nav-top' %}
 </header>
@@ -29,7 +29,7 @@
 
 <footer>
 	{% include nav.html navclass='nav-bottom' %}
-	<p class="copyright">Copyright Emma McInall © 2013</p>
+	<p class="copyright" role="contentinfo">Copyright Emma McInall © 2013</p>
 </footer>
 
 <script src="/js/nav.js"></script>
