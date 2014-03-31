@@ -19,20 +19,19 @@
 <body>
 
 <header role="banner">
-	<img src="images/logo-placeholder.svg" alt="logo placeholder">
 	<a href="#nav" class="nav-btn hide-text"></a>
 	{% include nav.html navclass='nav-top' %}
+	<img src="images/logo-placeholder.svg" alt="logo placeholder">
+	{% include search-field.html %}
 </header>
-
-{% include search-field.html %}
 
 {{content}}
 
 <footer>
+	<p class="copyright" role="contentinfo">Copyright Emma McInall © 2013</p>
 	<div id="nav">
 		{% include nav.html navclass='nav-bottom' %}
 	</div>
-	<p class="copyright" role="contentinfo">Copyright Emma McInall © 2013</p>
 </footer>
 
 <script src="/js/nav.js"></script>

@@ -1,39 +1,66 @@
 @charset "UTF-8";
 /* CSS Document */
 
-.media{
+.promo-1{
 	border: 1px solid rgb(49, 53, 61);
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
+	background: url("/images/promo-1.svg");
 }
 
-.media img{
-	float: left;
-	margin: 10px 10px 10px 10px;
+.promo-2{
+	border: 1px solid rgb(49, 53, 61);
+	overflow: hidden;
+	float: center;
+	margin-top: 10px;
+	margin-left: 10px;
+	background: url("/images/promo-2.svg");
+}
+
+.promo-3{
+	border: 1px solid rgb(49, 53, 61);
+	overflow: hidden;
+	float: center;
+	margin-top: 10px;
+	margin-left: 10px;
+	background: url("/images/promo-3.svg");
+}
+
+.promo-large{
+	border: 1px solid rgb(49, 53, 61);
+	overflow: hidden;
+	float: center;
+	margin-top: 10px;
+	margin-left: 10px;
+	background: url("/images/large-promo.svg");
+}
+
+.promo img{
 }
 
 
-.media-img-stacked {
+.promo-img-stacked {
 	margin: 0;
 }
 
-.media-body{
-	overflow: hidden;
+.promo-body{
+
 }
 
-.media p{
+.promo p{
 	margin: 10px 10px 10px 10px;
+	float: right;
 }
 
-.media h2{
+.promo h2{
 	margin: 10px 10px 10px 10px;
-	float: center;
+	float: right;
 }
 
-.media h3{
+.promo h3{
 	margin: 10px 10px 10px 10px;
-	float: center;
+	float: right;
 }
 
