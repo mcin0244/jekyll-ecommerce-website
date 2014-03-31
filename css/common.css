@@ -5,6 +5,8 @@ html {
 	background-color: #F9F4EF;
 }
 
-
+li img {
+	max-height: 200px;
+}
 
  
