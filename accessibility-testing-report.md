@@ -5,9 +5,7 @@ User testing was conducted by {your name} on {specific date} between the times o
 - {Kayla Araujo}
 - {Grant Jeffery}
 - {Sasha Chama}
-- {}
-- {}
-- {}
+- {Elisa Koon}
 
 ## Tasks
 
