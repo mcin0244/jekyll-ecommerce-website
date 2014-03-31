@@ -4,7 +4,7 @@
 	
 	document.querySelector('.nav-btn').addEventListener('click', function(e){
 		e.preventDefault();	
-		
+		console.log('here')
 		if (navTop.getAttribute('data-state') == 'expanded'){
 			
 			 navTop.setAttribute('data-state', 'collapsed');

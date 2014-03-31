@@ -20,6 +20,7 @@
 
 <header role="banner">
 	<img src="images/logo-placeholder.svg" alt="logo placeholder">
+	<a href="#nav" class="nav-btn hide-text"></a>
 	{% include nav.html navclass='nav-top' %}
 </header>
 
@@ -28,10 +29,13 @@
 {{content}}
 
 <footer>
-	{% include nav.html navclass='nav-bottom' %}
+	<div id="nav">
+		{% include nav.html navclass='nav-bottom' %}
+	</div>
 	<p class="copyright" role="contentinfo">Copyright Emma McInall © 2013</p>
 </footer>
 
 <script src="/js/nav.js"></script>
+
 </body>
-<html>
+</html>
