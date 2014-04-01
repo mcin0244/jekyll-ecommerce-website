@@ -9,13 +9,13 @@
 */
 
 html{
-	font: normal 100%/1.5 'Source Sans Pro', sans-serif; /* 16px/24px */;
-	color: #1C1D21;
+	font: normal 100%/1.5 'Cantarell', sans-serif; /* 16px/24px */;
+	color: #000;
 }
 
 a:selection{
-	background-color: #445878;
-	color: #fff;
+	background-color: #aaa;
+	color: #000;
 }
 
 a,
@@ -26,15 +26,14 @@ a:link {
 }
 
 a:visited {
-	color: #445878;
-	border-bottom: #445878;
+	color: #000;
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: #92CDCF;
-	border-bottom: #92CDCF;
+	color: #e0d315;
+	border-bottom: #aaaaaa;
 }
 
 a:hover;
@@ -66,43 +65,53 @@ margin: 0 0 1.5rem;
 }	 
 
 h1, .exa {
-	font-family: 'Oxygen', sans-serif;
-	color: #445878;
+	font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+	color: #000;
 	font-size: 1.802rem;
 	line-height: 1.6648;	
 }
 
 h2, .peta {
-	font-family: 'Oxygen', sans-serif;
-	color: #445878;
+	font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+	color: #000;
 	font-size: 1.602rem;
 	line-height: 1.8729;	
 }
 
 h3, .tera {
-	font-family: 'Oxygen', sans-serif;
-	color: #445878;
+	font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+	color: #000;
 	font-size: 1.424rem;
 	line-height: 1.0535;	
 }
 
 h4, .giga {
-	font-family: 'Oxygen', sans-serif;
-	color: #445878;
+	font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+	color: #aaaaaa;
 	font-size: 1.266rem;
 	line-height: 1.1852;	
 }
 
 h5, .mega {
-	font-family: 'Oxygen', sans-serif;
-	color: #445878;
+	font-family: 'Cantarell', sans-serif;
+    font-weight: 400;
+	color: #000;
 	font-size: 1.125rem;
 	line-height: 1.3333;	
 }
 
 h6, .kilo {
-	font-family: 'Oxygen', sans-serif;
-	color: #445878;
+	font-family: 'Cantarell', sans-serif;
+    font-weight: 400;
+	color: #000;
 	font-size: 1rem;	
 	line-height: 1.5000;
 }
@@ -119,29 +128,31 @@ small, .milli {
 
 ul {
 	list-style-type: none;
-	color: #31353D;
+	color: #aaaaaa;
 }
 
 ul li{
 	position: relative;
-	color: #ccc;
+	color: #aaaaaa;
 }
 
 ul li:before {
 	content:"";
-	color: #31353D;
 	position: absolute;
 	left: -1.3em;
 }
 
 table th {
-	font-family: 'Oxygen', sans-serif;
-	color: #445878;
+	font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+	color: #aaaaaa;
 }
 
 table td {
-	font-family: 'Source Sans Pro', sans-serif;
-	color: #31353D;
+	font-family: 'Cantarell', sans-serif;
+    font-weight: 400;
+	color: #aaaaaa;
 }
 
 table tr:nth-child(even){

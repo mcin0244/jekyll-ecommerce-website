@@ -14,14 +14,14 @@
 	width: 40px;
 	position: absolute;
 	top: 10px;	
-	background: #fff url(../images/nav-icon.svg) no-repeat center center;
+	background: #000 url(../images/nav-icon.svg) no-repeat center center;
 	/* background-color || background-image || background-repeat || background-position*/
 }
 
 .nav-btn:hover,
 .nav-btn:focus,
 .nav-btn:active{
-	background: #fff url(../images/nav-close.svg) no-repeat center center;
+	background: #000 url(../images/nav-close.svg) no-repeat center center;
 }
 
 .nav a, 
@@ -30,16 +30,16 @@
 	display: block;
 	padding: 1rem;
 	text-align:center;
-	color: #ccc;
+	color: #aaaaaa;
 	text-decoration: none;
-	background-color: #fff;
-	border-top: 1px solid #fff;
+	background-color: #000;
+	border-top: 1px solid #f9f4ef;
 }
 
 .nav a:hover,
 .nav a:focus,
 .nav a:active{
-	color: #999;
+	color: #f9f4ef;
 }
 
 	/* Toggle Nav*/
@@ -77,7 +77,7 @@
 
 @media only screen and (min-width: 35em){
 .nav{
-	background-color: #fff;
+	background-color: #000;
 	text-align: center;
 }
 	
