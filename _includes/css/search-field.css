@@ -10,7 +10,7 @@ form {
 }
 
 #search input[type="text"] {
-    background: url(../images/search-white.png) no-repeat 10px 6px #fcfcfc;
+    background: url(/images/search-white.png) no-repeat 10px 6px #fcfcfc;
     border: 1px solid #d1d1d1;
     color: #bebebe;
     width: 150px;

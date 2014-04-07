@@ -33,7 +33,7 @@
 	color: #aaaaaa;
 	text-decoration: none;
 	background-color: #000;
-	border-top: 1px solid #f9f4ef;
+	border-top: 2px solid #f9f4ef;
 }
 
 .nav a:hover,
@@ -60,7 +60,7 @@
 .nav li{
 	margin-left: auto;
 	margin-right: auto;
-	width: 33.33%;
+  	width: 33.3333%;
 }
 	
 .nav-btn,
@@ -83,8 +83,7 @@
 	
 .nav li{
 	display: inline-block;
-	margin-left: auto;
-   margin-right: auto;
+	float: left;
 	width:auto;
 }
 	

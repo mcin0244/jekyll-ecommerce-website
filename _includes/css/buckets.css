@@ -6,7 +6,6 @@
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
-	background-image: url(.../images/promo-1.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -16,7 +15,6 @@
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
-	background-image: url(.../images/promo-2.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -26,7 +24,6 @@
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
-	background-image: url(.../images/promo-3.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
@@ -36,12 +33,9 @@
 	float: center;
 	margin-top: 10px;
 	margin-left: 10px;
-	background: #fff;
-	background-image: url(.../images/large-promo.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
-
 
 .promo-body{
 	margin: 10px 10px 10px 10px;
