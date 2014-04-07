@@ -33,13 +33,13 @@
 	color: #aaaaaa;
 	text-decoration: none;
 	background-color: #000;
-	border-top: 2px solid #f9f4ef;
+	border-top: 2px solid #fff;
 }
 
 .nav a:hover,
 .nav a:focus,
 .nav a:active{
-	color: #f9f4ef;
+	color: #fff;
 }
 
 	/* Toggle Nav*/
