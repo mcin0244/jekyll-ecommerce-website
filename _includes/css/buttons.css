@@ -12,13 +12,10 @@
 	background:-ms-linear-gradient(top, #92cdcf 5%, #62b2b3 100%);
 	background:linear-gradient(to bottom, #92cdcf 5%, #62b2b3 100%);
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#92cdcf', endColorstr='#62b2b3',GradientType=0);
-	background-color:#92cdcf;
-	-moz-border-radius:5px;
-	-webkit-border-radius:5px;
-	border-radius:5px;
-	border:1px solid #62b2b3;
+	background-color:#000;
+	border:1px solid #000;
 	display:inline-block;
-	color:#ffffff;
+	color: #aaaaaa;
 	padding:5px 35px;
 	text-decoration:none;
 }
@@ -31,7 +28,7 @@
 	background:-ms-linear-gradient(top, #62b2b3 5%, #92cdcf 100%);
 	background:linear-gradient(to bottom, #62b2b3 5%, #92cdcf 100%);
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#62b2b3', endColorstr='#92cdcf',GradientType=0);
-	background-color:#62b2b3;
+	background-color:#000
 }
 
 .btn:active {
@@ -41,26 +38,21 @@
 
 /* Second Button Style */
 .btn2 {
-	background-color:#031353;
-	-moz-border-radius:20px;
-	-webkit-border-radius:20px;
-	border-radius:20px;
-	display:inline-block;
-	color:#ffffff;
+	color: #aaa;
+	background-color: #fff;
+	display: inline-block;
 	padding:5px 31px;
 	text-decoration:none;
 	float: right;
-	margin-right: 2rem;
-	margin-bottom: 2rem;
 }
 
 .btn2:hover {
-	background-color:#445878;
-	color:#ffffff;
+	background-color:#000;
+	color: #f9f2ed;
 }
 
 .btn2:active {
 	position:relative;
 	top:1px;
-	color:#ffffff;
+	color: #f9f2ed;
 }

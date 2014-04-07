@@ -47,13 +47,12 @@ main {
 .rating {
   unicode-bidi: bidi-override;
   direction: rtl;
-  text-align: center;
 }
 
 .rating > span {
   display: inline-block;
   position: relative;
-  width: 1.1em;
+  width: 1.3em;
 }
 
 .rating > span:hover,
@@ -66,5 +65,5 @@ main {
    content: "\2605";
    position: absolute;
    left: 0; 
-   color: #92CDCF;
+   color: #e4d200;
 }

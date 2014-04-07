@@ -4,3 +4,11 @@
 	margin-right: auto;
  }
  
+ .top {
+ 	float: left;
+ }
+
+  .search {
+ 	float: right;
+ }
+
