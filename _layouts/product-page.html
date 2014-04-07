@@ -3,17 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>{% if page.title %}{{page.title}} · {% endif %}Jekyll Ecommerce Website{% if page.titleAfter %} · {{page.titleAfter}}{% endif %}</title>
-	<link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/typography.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/nav.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/header.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/footer.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/buckets.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/search-field.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/responsive-grid.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/product-details.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/cart.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/buttons.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/jekyll-ecommerce-website.css" rel="stylesheet">
 	<link href='http://fonts.googleapis.com/css?family=Cantarell:400,700|Fjalla+One' rel='stylesheet' type='text/css'>
 	<meta name="description" content="{{page.meta}}">
 </head>
@@ -21,11 +11,11 @@
 
 <header role="banner">
 	{% include nav.html navclass='nav-top' %}
+	{% include sub-nav.html navclass='nav-top' %}
 	<img src="/images/logo-placeholder.svg" alt="logo placeholder">
 	{% include search-field.html %}
 </header>
 
-	{% include sub-nav.html navclass='nav-top' %}
 
 
 
