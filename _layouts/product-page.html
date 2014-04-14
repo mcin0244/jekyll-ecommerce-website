@@ -16,13 +16,13 @@
 	<a href="#nav" class="nav-btn hide-text"></a>
 	{% include nav.html navclass='nav-top' %}
 	{% include sub-nav.html navclass='nav-top' %}
-	<img src="{{site.baseurl}}/images/logo.jpg" alt="the VINE logo">
+	<img src="{{site.baseurl}}/images/logo2.jpg" alt="the VINE logo">
 </header>
 <main role="main">
 
 	<div class="product-detail">
 	<div class="product-img">
-		<img src="http://placehold.it/200x370" alt="">
+		<img src="{{page.image}}" alt="Product Image">
 	</div>
 	<div class="product-body">
 		<h2>{{page.title}}</h2>
@@ -46,8 +46,8 @@
 </main>
 
 <footer>
-	{% include nav.html navclass='nav-bottom' %}
 	<p class="copyright">Copyright Emma McInall © 2013</p>
+	{% include nav.html navclass='nav-bottom' %}
 </footer>
 
 <script src="{{site.baseurl}}/js/nav.js>"</script>
