@@ -7,7 +7,7 @@ made-in: California, USA
 price: $9.95
 by: E & J Gallo Winery
 alcohol: 9%
-image: rose-whitezinefandel.jpg
+image: rose-whitezinfandel.jpg
 ---
 
 *White-Zinfandel* Clear bright pale pink; aromas of strawberry, lime rhubarb and candy floss with floral nuances; off-dry, with sweet strawberry, rhubarb pie and candy floss flavours; tart rhubarb on finish. Serve chilled with mexican cuisine, finger foods, salads and fruit desserts. 

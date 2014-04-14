@@ -1,7 +1,6 @@
  header img {
- 	margin-right: auto;
- 	margin-left: auto;
-	max-height: 150px;
+ 	float: center;
+ 	max-height: 250px;
 	margin-top: 2.5em;
  }
  

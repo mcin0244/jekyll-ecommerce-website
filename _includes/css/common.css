@@ -9,3 +9,9 @@ html {
 li img {
 	max-height: 200px;
 }
+
+
+.main {
+	margin-left: 5em;
+	margin-right: 5em;
+}
