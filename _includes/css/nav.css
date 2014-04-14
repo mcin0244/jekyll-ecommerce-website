@@ -92,6 +92,10 @@
 
 .nav .search {
 	float: right;
+	padding-top: .8rem;
+	padding-bottom: .5rem;
+	padding-right: .8rem;
+
 }
 
 .nav a, 
@@ -114,9 +118,16 @@ header{
 }
 
 .subnav .nav { 
-background-color: #ccc;
+	background-color: #aaaaaa;
 }
 
-.subnav .nav a{ 
-background-color: #ccc;
+.subnav .nav a { 
+	color: #000 ;
+	background-color: #aaaaaa;
+}
+
+.subnav a:hover,
+.subnav a:focus,
+.subnav a:active{
+	color: #fff;
 }
