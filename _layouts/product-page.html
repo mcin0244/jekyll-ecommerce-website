@@ -13,11 +13,11 @@
 <body>
 
 <header role="banner">
+	<a href="#nav" class="nav-btn hide-text"></a>
 	{% include nav.html navclass='nav-top' %}
 	{% include sub-nav.html navclass='nav-top' %}
 	<img src="{{site.baseurl}}/images/logo-placeholder.svg" alt="logo placeholder">
 </header>
-
 
 
 
@@ -35,7 +35,7 @@
 		<p>{{page.meta}}</p>
 		
 		<ul>
-			<li>{{page.made-in}</li>
+			<li>{{page.made-in}}</li>
 			<li>{{page.by}}</li>
 			<li>{{page.alcohol}}</li>
 		</ul>
