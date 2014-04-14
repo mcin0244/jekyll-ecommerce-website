@@ -1,12 +1,12 @@
 ---
 layout: product-page
 title: Merlot
-meta: Merlot is one of our best selling products.
-type: red
-made-in: Canada
+meta: Medium-bodied & Fruity
+made-in: California, USA
 price: $9.99
-materials: 100% cotton
+by: E & J Gallo Winery
+alcohol: 13.0%
 image: red-merlot.jpg
 ---
 
-*Merlot* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
+*Merlot* Bright ruby colour; the nose reveals red berry, boysenberry, chocolate and anise. Medium-bodied, fruity, slightly tannic on the finish. Serve with beef, pasta with red sauce, chicken and stews. 

@@ -1,12 +1,12 @@
 ---
 layout: product-page
 title: Pinot-Noir
-meta: Pinot-Noir is one of our best selling products.
-type: red
-made-in: Canada
+meta: Medium-bodied & Fruity
+made-in: California, USA
 price: $9.99
-materials: 100% cotton
+by: E & J Gallo Winery
+alcohol: 13.0%
 image: red-pinotnoir.jpg
 ---
 
-*Pinot Noir* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
+*Pinot Noir* Medium garnet; aromas of ripe plum, earth and spices; medium-bodied, some green pepper on the attack developing into plum flavours and ending with slight tartness. Serve with grilled chicken sandwiches or roasted root vegetables. 

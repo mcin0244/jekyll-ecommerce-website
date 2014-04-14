@@ -1,12 +1,12 @@
 ---
 layout: product-page
 title: Cabernet-Sauvignon
-meta: Cabernet-Sauvignon is one of our best selling products.
-type: red
-made-in: Canada
+meta: Medium-bodied & Fruity
+made-in: California, USA
 price: $9.99
-materials: 100% cotton
-image: {{site.baseurl}}/red-cabernetsauvignon.jpg
+by: E & J Gallo Winery
+alcohol: 13.0%
+image: red-cabernetsauvignon.jpg
 ---
 
-*Cabernet Sauvignon* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
+*Cabernet Sauvignon* Bright ruby colour; cherry and red berry fruit with spice aromas; dry, medium body; soft, round plum and berry flavours with a hint of oak; medium length finish. Serve with grilled meat. 
