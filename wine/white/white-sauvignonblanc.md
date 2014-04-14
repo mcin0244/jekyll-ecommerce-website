@@ -1,12 +1,13 @@
 ---
 layout: product-page
 title: Sauvignon-Blanc
-meta: Sauvignon-Blanc is one of our best selling products.
+meta: Light & Crisp
 type: white
-made-in: Canada
-price: $9.99
-materials: 100% cotton
-image: product-image-placeholder.svg
+made-in: California, USA
+price: $9.95
+by: E & J Gallo Winery
+alcohol: 12.5%
+image: white-sauvignonblanc.jpg
 ---
 
-*Sauvignon-Blanc* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
+*Sauvignon-Blanc* Pale straw colour; citrus, grass and light gooseberry aromas; dry, light body; flavours match the aromas; with crisp, clean finish. Serve with seafood salad or light pasta

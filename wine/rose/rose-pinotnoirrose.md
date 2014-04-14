@@ -1,12 +1,13 @@
 ---
 layout: product-page
-title: Pinot-Noir-Rose
-meta: Pinot-Noir-Rose is one of our best selling products.
+title: Pinoit-Noir-Rose
+meta: Easy going & Fruity
 type: rose
-made-in: Canada
-price: $9.99
-materials: 100% cotton
-image: product-image-placeholder.svg
+made-in: California, USA
+price: $9.95
+by: E & J Gallo Winery
+alcohol: 12.5%
+image: rose-pinotnoir.jpg
 ---
 
-*Pinot-Noir-Rose* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
+*Pinot-Noir-Rose* Pale salmon colour; pomegranate and cranberry nose with light floral notes; juicy, sweet cherry flavours followed by a dry, fresh finish. Serve with grilled chicken, baked ham or fish. 

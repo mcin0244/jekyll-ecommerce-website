@@ -2,6 +2,7 @@
 layout: product-page
 title: Cabernet-Sauvignon
 meta: Medium-bodied & Fruity
+type: red
 made-in: California, USA
 price: $9.99
 by: E & J Gallo Winery

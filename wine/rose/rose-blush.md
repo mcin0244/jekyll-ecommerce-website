@@ -1,12 +1,14 @@
 ---
 layout: product-page
 title: Blush
-meta: Blush is one of our best selling products.
+meta: Easy going & Fruity
 type: rose
-made-in: Canada
-price: $9.99
-materials: 100% cotton
-image: rose-blush.svg
+made-in: California, USA
+price: $9.95
+by: E & J Gallo Winery
+alcohol: 8.5%
+image: rose-blush.jpg
 ---
 
-*Blush* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
+
+*Blush* Pale onion skin colour; soft peach aroma and candy flavour; soft short finish. Serve on it's own, chilled for summer entertaining or with spicy foods. 

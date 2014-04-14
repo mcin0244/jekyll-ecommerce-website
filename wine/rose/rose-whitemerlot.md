@@ -1,12 +1,13 @@
 ---
 layout: product-page
 title: White-Merlot
-meta: White-Merlot is one of our best selling products.
+meta: Light & Off-dry
 type: rose
-made-in: Canada
-price: $9.99
-materials: 100% cotton
-image: product-image-placeholder.svg
+made-in: California, USA
+price: $9.95
+by: E & J Gallo Winery
+alcohol: 9%
+image: rose-merlot.jpg
 ---
 
-*White-Merlot* is one of our best selling products. It is 100% cotton and made in Canada. It costs $9.99.
+*White-Merlot* Clear bright pink; juicy cherry notes complimenting fresh raspberries, leading to a crisp finish. Pair with barbecue, seafood or spicy recipes. 
