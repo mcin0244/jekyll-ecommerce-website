@@ -9,4 +9,7 @@ li img {
 	max-height: 200px;
 }
 
- 
+main {
+ 	margin-right: 10em;
+ 	margin-left: 10em;
+ }
