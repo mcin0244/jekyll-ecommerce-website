@@ -4,7 +4,6 @@
 .product-detail{
 	border: 1px solid rgb(238, 239, 247);
 	overflow: hidden;
-	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -12,6 +11,7 @@
 .product-img{
 	float: left;
 	margin: 10px 10px 10px 10px;
+	max-height: 400px;
 }
 
 .product-img-stacked {
@@ -20,7 +20,6 @@
 }
 
 .product-body{
-	overflow: hidden;
 }
 
 .product-detail p{
@@ -40,6 +39,7 @@
 /* Rating */
 
 .rating {
+  margin: 10px 10px 10px 10px;
   unicode-bidi: bidi-override;
   direction: rtl;
 }
@@ -47,7 +47,7 @@
 .rating > span {
   display: inline-block;
   position: relative;
-  width: 1.3em;
+  width: 1.5em;
 }
 
 .rating > span:hover,

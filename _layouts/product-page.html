@@ -21,23 +21,23 @@
 <main role="main">
 
 	<div class="product-detail">
-	<div class="product-img">
-		<img src="{{page.image}}" alt="Product Image">
+	<div>
+		<img class="product-img" src="{{site.baseurl}}/images/{{page.image}}" alt="Wine">
 	</div>
 	<div class="product-body">
 		<h2>{{page.title}}</h2>
 		
-		<h5> {{page.price}} </h5> <div class="rating">
+				<h5> {{page.price}} </h5> <div class="rating">
 <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
 			</div>
-		
-		<p>{{page.meta}}</p>
-		
 		<ul>
+			<li>{{page.alcohol}}</li>
 			<li>{{page.made-in}}</li>
 			<li>{{page.by}}</li>
-			<li>{{page.alcohol}}</li>
 		</ul>
+
+		
+		<p>{{page.content}}</p>
 		
 		<a class="btn2 yotta" href="{{site.baseurl}}/cart.html">PURCHASE</a>
 	</div>
