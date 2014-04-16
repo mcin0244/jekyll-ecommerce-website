@@ -2,6 +2,7 @@
 /* CSS Document */
 
 .promo-1{
+	position: relative;
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
@@ -11,6 +12,7 @@
 }
 
 .promo-2{
+	position: relative;
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
@@ -20,6 +22,7 @@
 }
 
 .promo-3{
+	position: relative;
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
@@ -29,6 +32,7 @@
 }
 
 .promo-large{
+	position: relative;
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
