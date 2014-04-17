@@ -1,0 +1,14 @@
+/* MAIN */
+  Develop & Main Design: Emma McInall
+
+/* SITE */
+  Last update: 21/04/2014
+  Doctype: HTML5
+  IDE: Sublime, Illustrator
+
+/* IMAGES */
+  All images created by Emma McInall.
+  Copyright Emma McInall © 2013
+
+/* SPECIAL THANKS */
+  Teacher: Thomas Bradley

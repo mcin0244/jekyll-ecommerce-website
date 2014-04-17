@@ -42,6 +42,7 @@
 }
 
 .promo-body{
+	position: absolute;
 	margin: 10px 10px 10px 10px;
 	float: right;
 }
