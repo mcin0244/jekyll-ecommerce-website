@@ -1,9 +1,7 @@
 <div class ="grid">
-
-		<div class="unit gutter unit-s-1 unit-m-1-2 unit-l-1-3">
 	{% for categories in site.pages %}
 		{% if categories.type == include.type %}
-			<div class="unit gutter unit-s-1 unit-m-1-2 unit-l-1-3">
+		<div class="unit gutter unit-s-1-3 unit-m-1-3 unit-l-1-3">
 			<a href="{{site.baseurl}}{{categories.url}}">
 				<img src="{{site.baseurl}}/images/{{categories.image}}" alt="wine image">
 				<h4>{{categories.title}}</h4>
@@ -11,4 +9,5 @@
 			</a>
 			</div>
 		{% endif %}
+		{% endfor %}
 </div>
