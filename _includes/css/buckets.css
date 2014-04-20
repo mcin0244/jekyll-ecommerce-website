@@ -42,12 +42,11 @@
 }
 
 .promo-body{
+	color: #fff;
 	position: absolute;
-	background-color: #fff;
 	bottom:5px;
-	right:0px;
+	right:25px;
 	margin: 10px 10px 10px 10px;
-	float: right;
 }
 
 .promo p{
