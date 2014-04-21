@@ -6,8 +6,8 @@ type: rose
 made-in: California, USA
 price: $9.95
 by: E & J Gallo Winery
-alcohol: 12.5%
+alcohol: 12.5% alc.
 image: rose-pinotnoir.jpg
 ---
 
-*Pinot-Noir-Rose* Pale salmon colour; pomegranate and cranberry nose with light floral notes; juicy, sweet cherry flavours followed by a dry, fresh finish. Serve with grilled chicken, baked ham or fish. 
+A Pale salmon colour; pomegranate and cranberry nose with light floral notes; juicy, sweet cherry flavours followed by a dry, fresh finish. Serve with grilled chicken, baked ham or fish. 

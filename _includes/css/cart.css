@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .media{
-	border: 1px solid rgb(49, 53, 61);
+	border-bottom: 1px solid rgb(49, 53, 61);
 	overflow: hidden;
 	float: center;
 	margin-top: 10px;
@@ -11,6 +11,7 @@
 
 .media img{
 	float: left;
+	max-height: 250px;
 	margin: 10px 10px 10px 10px;
 }
 

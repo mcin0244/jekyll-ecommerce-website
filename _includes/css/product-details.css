@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .product-detail{
-	border: 1px solid rgb(238, 239, 247);
+	border: 0px solid rgb(238, 239, 247);
 	overflow: hidden;
 	margin-left: auto;
 	margin-right: auto;
@@ -34,6 +34,11 @@
 .product-detail h5{
 	margin: 10px 10px 10px 10px;
 	float: center;
+}
+
+.btn2 {
+	position: relative;
+	bottom: 0px;
 }
 
 /* Rating */

@@ -6,8 +6,8 @@ type: rose
 made-in: California, USA
 price: $9.95
 by: E & J Gallo Winery
-alcohol: 9%
+alcohol: 9% alc.
 image: rose-whitemerlot.jpg
 ---
 
-*White-Merlot* Clear bright pink; juicy cherry notes complimenting fresh raspberries, leading to a crisp finish. Pair with barbecue, seafood or spicy recipes. 
+A Clear bright pink; juicy cherry notes complimenting fresh raspberries, leading to a crisp finish. Pair with barbecue, seafood or spicy recipes. 

@@ -6,8 +6,8 @@ type: red
 made-in: California, USA
 price: $9.99
 by: E & J Gallo Winery
-alcohol: 13.0%
+alcohol: 13.0% alc.
 image: red-merlot.jpg
 ---
 
-*Merlot* Bright ruby colour; the nose reveals red berry, boysenberry, chocolate and anise. Medium-bodied, fruity, slightly tannic on the finish. Serve with beef, pasta with red sauce, chicken and stews. 
+A Bright ruby colour; the nose reveals red berry, boysenberry, chocolate and anise. Medium-bodied, fruity, slightly tannic on the finish. Serve with beef, pasta with red sauce, chicken and stews. 

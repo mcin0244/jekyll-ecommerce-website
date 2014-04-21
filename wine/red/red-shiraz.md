@@ -6,8 +6,8 @@ type: red
 made-in: California, USA
 price: $9.99
 by: E & J Gallo Winery
-alcohol: 13.5%
+alcohol: 13.5% alc.
 image: red-shiraz.jpg
 ---
 
-*Shiraz* Medium purple in colour, it possesses aromas of red apple skin, vanilla and spices. Medium-bodied, it is spicy on the palete with a tannic edge on the finish. Serve with grilled meat. 
+Medium purple in colour, it possesses aromas of red apple skin, vanilla and spices. Medium-bodied, it is spicy on the palete with a tannic edge on the finish. Serve with grilled meat. 
