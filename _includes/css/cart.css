@@ -38,3 +38,20 @@
 	float: center;
 }
 
+table {
+	margin: 0;
+	padding: 0;
+	border-spacing: 10px;
+	width:100%;
+	border-bottom: 1px solid rgb(49, 53, 61);
+}
+
+table td {
+text-align: right;
+}
+
+table td,
+table th,
+table tr {
+   background: none;
+}
